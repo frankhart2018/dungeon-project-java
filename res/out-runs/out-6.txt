@@ -1,0 +1,124 @@
+
+██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+█░░░░░░░░░░░░███░░░░░░██░░░░░░█░░░░░░██████████░░░░░░█░░░░░░░░░░░░░░█░░░░░░░░░░░░░░█░░░░░░░░░░░░░░█░░░░░░██████████░░░░░░█
+█░░▄▀▄▀▄▀▄▀░░░░█░░▄▀░░██░░▄▀░░█░░▄▀░░░░░░░░░░██░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀░░░░░░░░░░██░░▄▀░░█
+█░░▄▀░░░░▄▀▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░██░░▄▀░░█░░▄▀░░░░░░░░░░█░░▄▀░░░░░░░░░░█░░▄▀░░░░░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░██░░▄▀░░█
+█░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀░░░░░░▄▀░░██░░▄▀░░█░░▄▀░░█████████░░▄▀░░█████████░░▄▀░░██░░▄▀░░█░░▄▀░░░░░░▄▀░░██░░▄▀░░█
+█░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░██░░▄▀░░█░░▄▀░░█████████░░▄▀░░░░░░░░░░█░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░██░░▄▀░░█
+█░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░██░░▄▀░░█░░▄▀░░██░░░░░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░██░░▄▀░░█
+█░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀░░░░░░░░░░█░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░██░░▄▀░░█
+█░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░░░░░▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀░░█████████░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░░░░░▄▀░░█
+█░░▄▀░░░░▄▀▄▀░░█░░▄▀░░░░░░▄▀░░█░░▄▀░░██░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀░░░░░░▄▀░░█░░▄▀░░░░░░░░░░█░░▄▀░░░░░░▄▀░░█░░▄▀░░██░░▄▀▄▀▄▀▄▀▄▀░░█
+█░░▄▀▄▀▄▀▄▀░░░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀░░██░░░░░░░░░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀░░██░░░░░░░░░░▄▀░░█
+█░░░░░░░░░░░░███░░░░░░░░░░░░░░█░░░░░░██████████░░░░░░█░░░░░░░░░░░░░░█░░░░░░░░░░░░░░█░░░░░░░░░░░░░░█░░░░░░██████████░░░░░░█
+██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+Dungeon has the following configuration: 
+Number of rows: 4
+Number of columns: 4
+Interconnectivity: 2
+Is dungeon wrapping? true
+Percentage of caves with treasures: 25.0
+Force the interconnectivity range? false
+---------------------------------------------------
+LET THE GAME START!
+
+You are in a cave
+Doors lead to the N, E, S
+You find 1 arrow here
+You smell a pungent smell
+
+Move, Pickup, or Shoot (M-P-S)? S
+No. of caves? 2
+Where to? S
+You shot the Otyugh, shoot it again to kill
+
+You are in a cave
+Doors lead to the N, E, S
+You find 1 arrow here
+You smell a pungent smell
+
+Move, Pickup, or Shoot (M-P-S)? S
+No. of caves? 2
+Where to? S
+You killed the Otyugh
+
+You are in a cave
+Doors lead to the N, E, S
+You find 1 arrow here
+
+Move, Pickup, or Shoot (M-P-S)? M
+Where to? S
+
+You are in a cave
+Doors lead to the N, E, S
+You find 1 sapphire here
+
+Move, Pickup, or Shoot (M-P-S)? M
+Where to? S
+
+You are in a cave
+Doors lead to the N, S, W
+You find 1 sapphire here
+
+Move, Pickup, or Shoot (M-P-S)? M
+Where to? W
+
+You are in a cave
+Doors lead to the N, E, S
+You smell a pungent smell
+
+Move, Pickup, or Shoot (M-P-S)? M
+Where to? N
+
+You are in a tunnel
+that continues to the N, S
+You find 2 arrows here
+You smell a strong pungent smell
+
+Move, Pickup, or Shoot (M-P-S)? P
+What? arrow
+You pick up an arrow
+
+You are in a tunnel
+that continues to the N, S
+You find 1 arrow here
+You smell a strong pungent smell
+
+Move, Pickup, or Shoot (M-P-S)? P
+What? arrow
+You pick up an arrow
+
+You are in a tunnel
+that continues to the N, S
+You smell a strong pungent smell
+
+Move, Pickup, or Shoot (M-P-S)? S
+No. of caves? 1
+Where to? N
+You shot the Otyugh, shoot it again to kill
+
+You are in a tunnel
+that continues to the N, S
+You smell a strong pungent smell
+
+Move, Pickup, or Shoot (M-P-S)? S
+No. of caves? 1
+Where to? N
+You killed the Otyugh
+
+You are in a tunnel
+that continues to the N, S
+
+Move, Pickup, or Shoot (M-P-S)? M
+Where to? N
+
+Congratulations you have reached the end of the dungeon
+Here are your treasure collections: 
+---------------------------------------------------
+Taggy now has the following treasure count: 
+No treasure in bag.
+
+You are left with: 
+---------------------------------------------------
+Taggy now has the following arrow count: 
+Arrows: 1

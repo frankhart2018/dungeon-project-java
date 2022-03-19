@@ -1,0 +1,23 @@
+- [x] Restart game 
+- [x] Moving monsters
+- [x] Thieves
+- [x] Pits
+- [x] Mock view
+- [x] Tests
+- [x] Javadoc
+- [x] Cell click movement
+- [x] Final design document
+- [x] Test plan
+- [x] Final JAR
+- [x] Output runs
+- [x] README
+- [x] Run all tests at all levels
+- [x] Checkstyle
+- [x] Check if console controller is working fine
+- [x] Separate out console and GUI controller
+- [x] Make classes package private
+- [x] Make sure old tests are passing
+- [x] Make methods private or package private
+- [x] Subclass controller interface so that no changes have to be made to the old controller
+- [x] Initial design document
+- [x] End game at the end position
